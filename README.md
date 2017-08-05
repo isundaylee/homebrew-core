@@ -1,4 +1,4 @@
-# isundaylee/core
+# isundaylee/repo
 
 This is the Homebrew tap that I use to host my own stuff. Currently available formulae include:
 
