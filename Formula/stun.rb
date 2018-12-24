@@ -3,7 +3,7 @@ class Stun < Formula
   desc "A simple layer-3 network tunnel written in C++."
   homepage "https://github.com.com/isundaylee/stun"
   url "https://github.com/isundaylee/stun/releases/download/v0.9.0/stun-osx.zip"
-  sha256 "cd96c55a9404b9ef15434d8cd073f6d1b6065fa0769b9e2743eb1c8d036def5a"
+  sha256 "33ea0352c3c53f3a544624e5f1d92acbfafcbe700ad0dd5cf053449ebcfcfdf2"
 
   def install
     # Install the binary file
